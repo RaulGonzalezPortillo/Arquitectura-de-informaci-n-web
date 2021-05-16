@@ -1,0 +1,12 @@
+.background{
+    background-image: url(img/campusIbero.jpg);
+    background-position: center center;
+}
+
+.containerBackground{
+    background: whitesmoke;
+}
+
+body{
+    background: darkgray
+}
